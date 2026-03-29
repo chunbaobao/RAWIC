@@ -1,0 +1,11 @@
+torch==2.7.1
+torchvision==0.22.1
+torchac==0.9.3
+ninja
+compressai==1.2.6
+timm 
+tensorboard
+imageio
+rawpy
+lmdb
+imagecodecs
