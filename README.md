@@ -1,5 +1,5 @@
 # RAWIC: Bit-Depth Adaptive Lossless Raw Image Compression
-This repo is the official implementation of the paper "RAWIC: Bit-Depth Adaptive Lossless Raw Image Compression" (ICME 2026).
+This repo is the official implementation of the paper ["RAWIC: Bit-Depth Adaptive Lossless Raw Image Compression"](https://arxiv.org/abs/2603.28105) (ICME 2026).
 <div align="center">
   <img src="assets/pipeline.png" />
   <p>Figure 1: The proposed pipeline of our model.</p>
@@ -115,9 +115,14 @@ We adapted the arithmetic coding from [FCGS](https://github.com/YihangChen-ee/FC
 
 
 ## Citation
-
-Coming soon.
-
+```
+@article{zheng2026rawic,
+  title={RAWIC: Bit-Depth Adaptive Lossless Raw Image Compression},
+  author={Zheng, Chunhang and Xu, Tongda and Xie, Mingli and Wang, Yan and Li, Dou},
+  journal={arXiv preprint arXiv:2603.28105},
+  year={2026}
+}
+```
 
 ## Acknowledgment
 
